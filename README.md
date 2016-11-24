@@ -6,11 +6,16 @@ This project will serve two purposes, to get familiar with the basics of buildin
 * Easy setup instructions
 * Logging
 * Configuration
-* REST endpoints
-* Datastore
+* Template engine
+* Providing REST endpoints
+* Consuming REST endpoints
+* Working with JSON/XML
+* Datastore (Kafka, Mongo, Redis ...)
 * Dependencies
 * Virtual Environment for Python
 * Packaging (e.g. .deb package)
+* Docker dev environment
+* Salt state
 * Build script for CI
 * Unit tests
 * Cucumber tests (i.e. behave)
