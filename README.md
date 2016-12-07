@@ -1,4 +1,6 @@
-Bistro (TODO: Make this an H1 header)
+Bistro
+=======
+
 
 This project will serve two purposes, to get familiar with the basics of building an app that could run in production, and to cook-up new apps quickly by providing all the basics ingredients an app needs:
 
@@ -20,7 +22,8 @@ This project will serve two purposes, to get familiar with the basics of buildin
 * Unit tests
 * Cucumber tests (i.e. behave)
 
-Getting started (TODO: Make this an H2 header)
+Getting started 
+---------------
 
 To get started:
 
