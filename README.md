@@ -24,15 +24,14 @@ This project will serve two purposes, to get familiar with the basics of buildin
 
 Getting started 
 ---------------
-
+```
 To get started:
 
 1. Install the GitHub Desktop client or command-line Git
 2. Clone this project
-   TODO: create a code-block with the command-line to clone this project with Git
 3. Start a branch
 4. Familiarize yourself with Markdown syntax, and finish all the TODOs
 5. Submit a pull request from your branch to master
-
+```
 You may find it helpful to install a Markdown previewer like "MacDown" or "MarkPad"
 
