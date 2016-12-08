@@ -36,3 +36,17 @@ To get started:
 
 You may find it helpful to install a Markdown previewer like "MacDown" or "MarkPad"
 
+Project layout
+--------------
+
+Next let's setup a typical project layout. Checkout the project layout [guide](http://docs.python-guide.org/en/latest/writing/structure/) and then setup here with the necessary files for:
+
+* License
+* A module named "module"
+* A package named "package" with "core" and "helpers" modules.
+* Pip requirements list
+* Makefile with two targets for "test" and "init"
+* Directories for "docs" and "tests"
+* Add at least one function in each of the 3 modules we created above, and then add instructions in the README.md about how to run them.
+
+Then send all this back to me with a pull request.
