@@ -24,7 +24,6 @@ This project will serve two purposes, to get familiar with the basics of buildin
 
 Getting started 
 ---------------
-```
 To get started:
 
 1. Install the GitHub Desktop client or command-line Git
@@ -32,6 +31,10 @@ To get started:
 3. Start a branch
 4. Familiarize yourself with Markdown syntax, and finish all the TODOs
 5. Submit a pull request from your branch to master
+
 ```
+git clone https://github.com/rgorsuch/bistro
+```
+
 You may find it helpful to install a Markdown previewer like "MacDown" or "MarkPad"
 
