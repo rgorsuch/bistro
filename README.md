@@ -4,7 +4,7 @@ Bistro
 
 This project will serve two purposes, to get familiar with the basics of building an app that could run in production, and to cook-up new apps quickly by providing all the basics ingredients an app needs:
 
-* Project layout
+* Project layout ✓
 * Easy setup instructions
 * Logging
 * Configuration
