@@ -4,7 +4,7 @@ Bistro
 
 This project will serve two purposes, to get familiar with the basics of building an app that could run in production, and to cook-up new apps quickly by providing all the basics ingredients an app needs:
 
-* Project layout
+* Project layout ✓
 * Easy setup instructions
 * Logging
 * Configuration
@@ -18,7 +18,7 @@ This project will serve two purposes, to get familiar with the basics of buildin
 * Packaging (e.g. .deb package)
 * Docker dev environment
 * Salt state
-* Build script for CI
+* Build script for CI. Integrate with Jenkins or TravisCI.
 * Unit tests
 * Cucumber tests (i.e. behave)
 
