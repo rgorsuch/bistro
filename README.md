@@ -24,7 +24,7 @@ This project will serve two purposes, to get familiar with the basics of buildin
 
 Getting started 
 ---------------
-```
+
 To get started:
 
 1. Install the GitHub Desktop client or command-line Git
@@ -32,6 +32,10 @@ To get started:
 3. Start a branch
 4. Familiarize yourself with Markdown syntax, and finish all the TODOs
 5. Submit a pull request from your branch to master
+
+```
+git clone https://github.com/rgorsuch/bistro
+```
 
 You may find it helpful to install a Markdown previewer like "MacDown" or "MarkPad"
 ```
@@ -48,4 +52,21 @@ Next let's setup a typical project layout. Checkout the project layout [guide](h
 * Directories for "docs" and "tests"
 * Add at least one function in each of the 3 modules we created above, and then add instructions in the README.md about how to run them.
 
+
+Project layout
+--------------
+
+Next let's setup a typical project layout. Checkout the project layout [guide](http://docs.python-guide.org/en/latest/writing/structure/) and then setup here with the necessary files for:
+
+* License
+* A module named "module"
+* A package named "package" with "core" and "helpers" modules.
+* Pip requirements list
+* Makefile with two targets for "test" and "init"
+* Directories for "docs" and "tests"
+* Add at least one function in each of the 3 modules we created above, and then add instructions in the README.md about how to run them.
+
 Then send all this back to me with a pull request.
+
+
+
