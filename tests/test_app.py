@@ -14,8 +14,6 @@ class FlaskTest(unittest.TestCase):
 
     def test_root(self):
         rv=self.app.get('/')
-        pprint(rv)
-        pprint(rv.data)
         expected_value = {"project": "bistro","version": "1.0.0"}
         actual_value = json.loads(rv.data)
         self.assertDictEqual(expected_value, actual_value, "Check that the response is structurally equal")
