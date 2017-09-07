@@ -1,9 +1,8 @@
 
-from flask import Flask, request
+from flask import Flask,request
 from flask import jsonify
 
-
-app=Flask(__name__)
+app = Flask(__name__)
 
 
 @app.route("/", methods=['GET'])

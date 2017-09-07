@@ -1,5 +1,7 @@
 import unittest
-from app import app
+import sys
+sys.path.append('.')
+from app.app import app
 from pprint import pprint
 from flask import jsonify, request
 import json
